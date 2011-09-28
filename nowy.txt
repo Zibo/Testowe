@@ -2,3 +2,6 @@ nowy plik
 // costam
 
 lalalal
+
+
+aaa
